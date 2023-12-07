@@ -211,11 +211,11 @@ int main() {
 
     cout << "Tu vida actual es: " << vida << " y tu ki actual es: " << ki <<endl <<endl;
 
-    // Cuarta decisi�n
+    // Cuarta decision
     
     do {
     
-    cout << " �Que deseas hacer? " <<endl;
+    cout << " ¿Que deseas hacer? " <<endl;
     cout << "1. Volar por el Monte Frypan en busca de la ultima Esfera del Dragon" <<endl;
     cout << "2. Entrenar para aumentar tu ki para la batalla final" <<endl;
     cout << "3. Descansar para prepararte para la batalla final" <<endl;
