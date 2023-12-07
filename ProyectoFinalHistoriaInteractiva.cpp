@@ -166,11 +166,11 @@ int main() {
         
 
 
-    // Tercera decisi�n
+    // Tercera decision
     
     do {
     
-    cout << " �Que deseas hacer? " <<endl;
+    cout << " ¿Que deseas hacer? " <<endl;
     cout << "1. Explorar el camino de la serpiente en busca de pistas sobre las Esferas del Dragon" <<endl;
     cout << "2. Te dirijes a Ciudad Satan en busca de la proxima Esfera del Dragon" <<endl;
     cout << "3. Volver a Kame House para entrenar en el Torneo de las Artes Marciales" <<endl;
