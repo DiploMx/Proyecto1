@@ -19,7 +19,7 @@ int main() {
     	
     	do {
     	
-        cout << " Juego Interactivo " <<endl <<endl;
+        cout << " Juego Interactivo Dragon Ball" <<endl <<endl;
         cout << "Eres un Guerrero Sayayin que puede participar en el Torneo Mundial de la Artes Marciales contra otros peleadores" << endl <<endl;
         cout << "1. Explorar el Planeta M2 en busca de las Esferas del Dragon" <<endl;
         cout << "2. Investigar la Cueva de las Sombras en busca de pistas" <<endl;
@@ -73,11 +73,11 @@ int main() {
 
         cout << "Tu vida actual es: " << vida << " y tu ki actual es: " << ki <<endl <<endl;
 
-        // Primera decisión
+        // Primera decisiï¿½n
         
         do {
         
-        cout << " ¿Que deseas hacer? " <<endl;
+        cout << " ï¿½Que deseas hacer? " <<endl;
         cout << "1. Continuar la busqueda de las Esferas del Dragon" <<endl;
         cout << "2. Volver atras y explorar otra area" <<endl;
         cout << "3. Salir de namekusein hacia una region desconocida" <<endl <<endl;
@@ -107,7 +107,7 @@ int main() {
                 break;
             case 3:
             	cout << endl <<endl;
-                cout << "Al salir de namekusein, te enfrentas contra freezer. Logras derrotarlo, pero sufres daños en el proceso." <<endl <<endl;
+                cout << "Al salir de namekusein, te enfrentas contra freezer. Logras derrotarlo, pero sufres daï¿½os en el proceso." <<endl <<endl;
                 vida -= rand() % 20 + 10;
                 ki -= rand() % 40 + 10;
                 break;
@@ -119,14 +119,14 @@ int main() {
 
         cout << "Tu vida actual es: " << vida << " y tu ki actual es: " << ki <<endl <<endl;
 
-        // Segunda decisión
+        // Segunda decisiï¿½n
         
         do {
         
-        cout << " ¿Que deseas hacer? " <<endl;
+        cout << " ï¿½Que deseas hacer? " <<endl;
         cout << "1. Continuar en busca de mas Esferas del Dragon" <<endl;
         cout << "2. Explorar namekusein en busca de pistas adicionales" <<endl;
-        cout << "3. Volver a casa para obtener información" <<endl;
+        cout << "3. Volver a casa para obtener informaciï¿½n" <<endl;
         cout << " Elige una opcion de las 3 que se muestran : ";
 
         cin >> opcion;
@@ -166,11 +166,11 @@ int main() {
         
 
 
-    // Tercera decisión
+    // Tercera decisiï¿½n
     
     do {
     
-    cout << " ¿Que deseas hacer? " <<endl;
+    cout << " ï¿½Que deseas hacer? " <<endl;
     cout << "1. Explorar el camino de la serpiente en busca de pistas sobre las Esferas del Dragon" <<endl;
     cout << "2. Te dirijes a Ciudad Satan en busca de la proxima Esfera del Dragon" <<endl;
     cout << "3. Volver a Kame House para entrenar en el Torneo de las Artes Marciales" <<endl;
@@ -211,11 +211,11 @@ int main() {
 
     cout << "Tu vida actual es: " << vida << " y tu ki actual es: " << ki <<endl <<endl;
 
-    // Cuarta decisión
+    // Cuarta decisiï¿½n
     
     do {
     
-    cout << " ¿Que deseas hacer? " <<endl;
+    cout << " ï¿½Que deseas hacer? " <<endl;
     cout << "1. Volar por el Monte Frypan en busca de la ultima Esfera del Dragon" <<endl;
     cout << "2. Entrenar para aumentar tu ki para la batalla final" <<endl;
     cout << "3. Descansar para prepararte para la batalla final" <<endl;
@@ -232,7 +232,7 @@ int main() {
     switch (opcion) {
         case 1:
         	cout << endl <<endl;
-            cout << "Vuelas por el Monte Frypan  y encuentras un lugar seguro para descansar. También encuentras la última Esfera del Dragón." <<endl <<endl;
+            cout << "Vuelas por el Monte Frypan  y encuentras un lugar seguro para descansar. Tambiï¿½n encuentras la ï¿½ltima Esfera del Dragï¿½n." <<endl <<endl;
             vida += rand() % 10 + 5;
             ki += rand() % 30 + 20;
             break;
@@ -256,11 +256,11 @@ int main() {
 
     cout << "Tu vida actual es: " << vida << " y tu ki actual es: " << ki <<endl <<endl;
 
-    // Quinta decisión
+    // Quinta decisiï¿½n
     
     do {
     
-    cout << " ¿Que deseas hacer? " <<endl;
+    cout << " ï¿½Que deseas hacer? " <<endl;
     cout << "1. No peleaas en el Torneo de Artes Marciales" <<endl;
     cout << "2. Usas las esferas del Dragon" <<endl;
     cout << "3. Peleas en el Torneo de Artes Marciales para decidir el ganador" <<endl;
