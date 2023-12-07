@@ -232,7 +232,7 @@ int main() {
     switch (opcion) {
         case 1:
         	cout << endl <<endl;
-            cout << "Vuelas por el Monte Frypan  y encuentras un lugar seguro para descansar. Tambi�n encuentras la �ltima Esfera del Drag�n." <<endl <<endl;
+            cout << "Vuelas por el Monte Frypan  y encuentras un lugar seguro para descansar. Tambien encuentras la �ltima Esfera del Drag�n." <<endl <<endl;
             vida += rand() % 10 + 5;
             ki += rand() % 30 + 20;
             break;
@@ -256,11 +256,11 @@ int main() {
 
     cout << "Tu vida actual es: " << vida << " y tu ki actual es: " << ki <<endl <<endl;
 
-    // Quinta decisi�n
+    // Quinta decision
     
     do {
     
-    cout << " �Que deseas hacer? " <<endl;
+    cout << " ¿Que deseas hacer? " <<endl;
     cout << "1. No peleaas en el Torneo de Artes Marciales" <<endl;
     cout << "2. Usas las esferas del Dragon" <<endl;
     cout << "3. Peleas en el Torneo de Artes Marciales para decidir el ganador" <<endl;
