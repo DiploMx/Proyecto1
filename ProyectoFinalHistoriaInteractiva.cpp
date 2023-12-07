@@ -77,7 +77,7 @@ int main() {
         
         do {
         
-        cout << " �Que deseas hacer? " <<endl;
+        cout << " ¿Que deseas hacer? " <<endl;
         cout << "1. Continuar la busqueda de las Esferas del Dragon" <<endl;
         cout << "2. Volver atras y explorar otra area" <<endl;
         cout << "3. Salir de namekusein hacia una region desconocida" <<endl <<endl;
