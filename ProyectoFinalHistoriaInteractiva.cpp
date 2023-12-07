@@ -123,10 +123,10 @@ int main() {
         
         do {
         
-        cout << " �Que deseas hacer? " <<endl;
+        cout << " ¿Que deseas hacer? " <<endl;
         cout << "1. Continuar en busca de mas Esferas del Dragon" <<endl;
         cout << "2. Explorar namekusein en busca de pistas adicionales" <<endl;
-        cout << "3. Volver a casa para obtener informaci�n" <<endl;
+        cout << "3. Volver a casa para obtener informacion" <<endl;
         cout << " Elige una opcion de las 3 que se muestran : ";
 
         cin >> opcion;
