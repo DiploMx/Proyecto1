@@ -73,7 +73,7 @@ int main() {
 
         cout << "Tu vida actual es: " << vida << " y tu ki actual es: " << ki <<endl <<endl;
 
-        // Primera decisi�n
+        // Primera decision
         
         do {
         
